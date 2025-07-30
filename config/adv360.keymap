@@ -81,7 +81,7 @@
     };
 
     extra4 { 
-      display-name = "Yellow";    
+      display-name = "Orange";    
       status = "reserved";
     };
   };
